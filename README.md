@@ -4,7 +4,8 @@ This is a student Term Project in `Manufacturing Data Science` by Prof. Chia-Yen
 
 ## Quick Links
 
-- [MDS Term Project](https://github.com/brianCHUCHU/Social_Advertisement_Recommendation_System/blob/main/IRTM%20Term%20Project.pdf): For detailed documentation in formal PDF format.
+- [MDS Term Project](https://github.com/brianCHUCHU/Boosting-Profit-of-Citi-Bike-with-Data/blob/main/MDS_Term_Project.pdf): For detailed documentation in formal PDF format.
+- [MDS Term Project Slides](https://github.com/brianCHUCHU/Boosting-Profit-of-Citi-Bike-with-Data/blob/main/MDS%20Term%20Project%20Slides.pdf): For presentation slides in PDF format.
 
 ## Citi Bike Profit Optimization
 
@@ -38,12 +39,10 @@ For detailed information, refer to the project documentation and analysis report
 
 ### Contributors
 
-This project was conducted by students enrolled in the Information Retrieval and Text Mining course at National Taiwan University.
+This project was conducted by students enrolled in the Manufacturing Data Science course at National Taiwan University.
 
-- [Contributor 1]
-- [Contributor 2]
-- [Contributor 3]
-- [Contributor 4]
-- [Contributor 5]
-
-For any inquiries or contributions, please contact [Maintainer Name].
+- Po-Yen Chu
+- Jie-Xiang Xu
+- Sen-Yun Gu
+- Leonard Tsai
+- Zheng-Liang Wu
